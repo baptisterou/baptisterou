@@ -23,7 +23,6 @@
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| [Komod](https://github.com/baptisterou/komod) | Headless CMS + React app for local communities | WordPress, Next.js, Expo |
 | [Campus RPG](#) | Gamified learning environment for students | Phaser, Node.js, Express |
 | [Cactus Studio](#) | Personal creative lab (3D printing & automation) | Blender, Python, ESP32 |
 
