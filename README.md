@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 ![Baptiste's GitHub stats](https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptisterou&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=baptisterou&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptisterou&layout=compact&theme=tokyonight)
 
 
 ---
