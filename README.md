@@ -38,7 +38,7 @@
 ---
 
 ### 🧠 Learning & Goals (2025)
-- Build a full SaaS MVP (Komod)
+- Build a full SaaS MVP (Kommod)
 - Master **React Native + Expo**
 - Pass the **CDA AFPA certification**
 - Launch open-source plugins for Komod ecosystem
