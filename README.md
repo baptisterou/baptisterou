@@ -40,28 +40,6 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 
 ---
 
-## 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=baptisterou&theme=radical&hide_border=false" height="165" />
-</p>
-
----
-
-## 🔥 Langages les plus utilisés
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisterou&layout=compact&theme=radical&hide_border=false&langs_count=10" height="180" />
-</p>
-
----
-
-## 🧠 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptisterou&theme=react-dark&hide_border=false&area=true" />
-</p>
-
----
-
 ## 📊 Profil
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baptisterou&theme=tokyonight" />
@@ -92,6 +70,13 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 - Rigueur sur **l’architecture, la sécurité, le typage, les performances**.  
 - Maîtrise de stacks modernes : Spring Boot, Rust, React, Next.js, Drupal headless.  
 - Culture DevOps : environnements dockerisés stables, workflows Git propres.  
+
+---
+
+## 🧠 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptisterou&theme=react-dark&hide_border=false&area=true" />
+</p>
 
 ---
 
