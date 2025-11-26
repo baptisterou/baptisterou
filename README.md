@@ -40,9 +40,7 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 
 ---
 
-# 📊 Stats & Visuels Dynamiques
-
-## 📈 Stats complètes
+## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=baptisterou&theme=radical&hide_border=false" height="165" />
