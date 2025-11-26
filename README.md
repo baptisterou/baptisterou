@@ -83,4 +83,4 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 # 📬 Contact
 📎 LinkedIn → https://www.linkedin.com/in/baptisterou  
 🧑‍💻 GitHub → https://github.com/baptisterou  
-📧 Email → *à renseigner*
+📧 Email → baptiste@cactus-studio.fr
