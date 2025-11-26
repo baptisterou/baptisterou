@@ -1,85 +1,103 @@
-# 👋 Baptiste Roumanie — Full-Stack Engineer
-
-Développeur spécialisé en **Spring Boot**, **React / Next.js**, **Drupal Headless**, et **Rust backend**.  
-Approche axée architecture propre, typage strict, qualité de code et industrialisation via Docker.
-
----
-
-## 🔧 Compétences Techniques
-
-### 🟦 Backend / API
-- **Spring Boot (avancé)**  
-  - Architecture modulaire / clean architecture  
-  - Services REST, DTO/Mapper (MapStruct), validations  
-  - Auth sécurisée (JWT + refresh), RBAC, gestion des erreurs  
-  - PostgreSQL / MySQL, migrations (Flyway)  
-  - Services conteneurisés (Docker), environnements dev/prod  
-- **Rust (En découverte)**  
-  - APIs type-safe (Axum / Actix)  
-  - Performance & sécurité mémoire  
-  - CLI outils, manipulation système, scripts robustes  
-  - Sérialisation Serde, gestion asynchrone (Tokio)
-
----
-
-### 🟩 Frontend / Web
-- **React / Next.js (TS)**  
-  - SSR / SSG / App Router  
-  - State management : Context, Zustand  
-  - Structuration par features, hooks personnalisés  
-  - UI/UX responsive, design system réutilisable  
-  - Intégration API robuste (REST / GraphQL)
-
----
-
-### 📱 Mobile
-- **React Native + Expo**  
-  - Apps cross-platform propres et performantes  
-  - Navigation, storage sécurisé, permissions  
-  - Optimisation bundle, OTA updates Expo
-
----
-
-### 🟨 CMS / Headless
-- **Drupal**  
-  - Modules custom, structure de contenu complexe  
-  - Headless via JSON:API / GraphQL  
-  - Theming et intégration frontend moderne  
-  - Environnements Docker complets (PHP-FPM, MariaDB, Xdebug)
-- **WordPress Headless**  
-  - WPGraphQL, CPT sur mesure  
-  - API headless pour front Next.js  
-
----
-
-### ⚙️ DevOps & Environnement
-- Docker / docker-compose  
-- CI/CD (bases GitHub Actions)  
-- Linux (Fedora, Debian), optimisation environnements dev  
-- Git workflow, versionning propre, documentation technique  
-
----
-
-## 🎯 Ce que j’apporte
-- Capacité à **concevoir, développer et maintenir** des applications complètes (backend + frontend + mobile).  
-- Rigueur sur la **structure**, la **sécurité**, la **qualité du code** et les bonnes pratiques.  
-- Aisance pour travailler sur des systèmes **scalables**, **headless**, ou **API-first**.  
-- Montée en compétence rapide sur de nouvelles technos (Rust, DevOps, architecture).
-
----
-
-## 📈 Statistiques GitHub  
+<!-- HEADER -->
+<h1 align="center">🚀 Baptiste Roumanie — Full-Stack Engineer</h1>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=baptisterou&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisterou&layout=compact&theme=tokyonight" />
+  <b>Spring Boot · React / Next.js · Drupal Headless · Rust Backend</b><br/>
+  Architecture propre • Typage strict • Performance • DevOps minimaliste
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baptisterou">
+    <img src="https://img.shields.io/badge/LinkedIn-Baptiste_Roumanie-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/baptisterou">
+    <img src="https://img.shields.io/badge/GitHub-baptisterou-black?logo=github&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 📬 Contact
-- LinkedIn : https://www.linkedin.com/in/baptisterou  
-- GitHub : https://github.com/baptisterou  
-- Email pro : `<à renseigner>`
+# ⚡ Compétences Techniques
 
+## 🔧 Backend / API Engineering
+- **Spring Boot (avancé)**  
+  Architecture modulaire, services REST, DTO/MapStruct, validation, sécurité JWT+refresh, PostgreSQL/MySQL, Flyway, Docker.
+- **Rust (en decouverte)**  
+  Axum / Actix, Serde, Tokio async, scripts systèmes, outils CLI type-safe.
+
+## 🎨 Frontend & Mobile
+- **React / Next.js (TypeScript)**  
+  SSR/SSG, App Router, Zustand, clean UI architecture, API caching, hooks avancés.
+- **React Native / Expo**  
+  Apps cross-platform performantes, OTA updates, storage sécurisé.
+
+## 🧩 CMS Headless
+- **Drupal** : modules custom, JSON:API, GraphQL, theming moderne, Docker PHP-FPM/Xdebug.  
+- **WordPress Headless** : Bedrock, WPGraphQL, intégration Next.js.
+
+## 🐳 DevOps & Environment
+Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git professionnels.
+
+---
+
+# 📊 Stats & Visuels Dynamiques
+
+## 📈 Stats complètes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=baptisterou&theme=radical&hide_border=false" height="165" />
+</p>
+
+---
+
+## 🔥 Langages les plus utilisés
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisterou&layout=compact&theme=radical&hide_border=false&langs_count=10" height="180" />
+</p>
+
+---
+
+## 🧠 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptisterou&theme=react-dark&hide_border=false&area=true" />
+</p>
+
+---
+
+## 📊 Profil
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baptisterou&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baptisterou&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baptisterou&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baptisterou&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baptisterou&theme=tokyonight&utcOffset=1" />
+</p>
+
+---
+
+## 🔥 Heatmap des contributions
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/baptisterou?chart=calendar&format=svg&weeks=50&theme=gruvbox" />
+</p>
+
+---
+
+# 🎯 Ce que j’apporte
+
+- Capacité à prendre en charge **back + front + mobile**.  
+- Rigueur sur **l’architecture, la sécurité, le typage, les performances**.  
+- Maîtrise de stacks modernes : Spring Boot, Rust, React, Next.js, Drupal headless.  
+- Culture DevOps : environnements dockerisés stables, workflows Git propres.  
+
+---
+
+# 📬 Contact
+📎 LinkedIn → https://www.linkedin.com/in/baptisterou  
+🧑‍💻 GitHub → https://github.com/baptisterou  
+📧 Email → *à renseigner*
