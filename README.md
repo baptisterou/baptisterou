@@ -69,7 +69,6 @@ Approche axée architecture propre, typage strict, qualité de code et industria
 ---
 
 ## 📈 Statistiques GitHub  
-*(Désactivables si l’API Vercel est instable)*
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=baptisterou&show_icons=true&theme=tokyonight&count_private=true" />
