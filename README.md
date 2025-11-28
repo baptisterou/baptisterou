@@ -73,12 +73,6 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 
 ---
 
-## 🧠 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptisterou&theme=react-dark&hide_border=false&area=true" />
-</p>
-
----
 
 # 📬 Contact
 📎 LinkedIn → https://www.linkedin.com/in/baptisterou  
