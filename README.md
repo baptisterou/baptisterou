@@ -64,13 +64,6 @@ Docker, docker-compose, CI/CD (basique), Linux (Fedora/Debian), workflows Git pr
 
 ---
 
-## 🔥🔥🔥
-<p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e7d25996-1267-476b-98ff-eaa2299433ba/f07c7831-9b58-4d8b-9820-b4e7146f6559.png" /></a>
-</p>
-
----
-
 ## 🎯 Ce que j’apporte
 
 - Capacité à prendre en charge **back + front + mobile**.  
