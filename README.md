@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🚀 Baptiste Roumanie — Full-Stack Engineer</h1>
+<h1 align="center">🚀 Jean-Baptiste Roumanie — Full-Stack Engineer</h1>
 
 <p align="center">
   <b>Spring Boot · React / Next.js · Drupal Headless · Rust Backend</b><br/>
