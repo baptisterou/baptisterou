@@ -22,6 +22,8 @@
 ## 🔧 Backend / API Engineering
 - **Spring Boot (avancé)**  
   Architecture modulaire, services REST, DTO/MapStruct, validation, sécurité JWT+refresh, PostgreSQL/MySQL, Flyway, Docker.
+- **Ruby On Rails (novice)**  
+  bonnes pratiques MVC, services/serializers propres, API REST solides, db migrations, auth JWT, ActiveRecord maîtrisé.
 - **Rust (en decouverte)**  
   Axum / Actix, Serde, Tokio async, scripts systèmes, outils CLI type-safe.
 
