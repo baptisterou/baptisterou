@@ -3,7 +3,6 @@
 
 <p align="center">
   <b>Spring Boot · React / Next.js · Drupal Headless · Rust Backend</b><br/>
-  Architecture propre • Typage strict • Performance 
 </p>
 
 <p align="center">
